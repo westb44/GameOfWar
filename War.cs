@@ -131,10 +131,6 @@ namespace WarGame
              The following IF_ELSE-IF Statement and Switch blocks
              in the IF_ELSE are to provide a "random" order of 
              cards placed back into the winner's deck
-            
-             NOTE: This feature is not complete as there are
-             a total of 36 different combinations of each way 
-             the cards can be placed
             ------------------------------------------------ */
             if (p1Card.FaceVal > p2Card.FaceVal)
             {
